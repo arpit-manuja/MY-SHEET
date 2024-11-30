@@ -2,6 +2,13 @@
 // Time complexity = O(n)
 // Space complexity = O(1)
 
+// Approach 
+// TRAVERSE AND COMPARE
+
+// take two variables and assign one with INT_MIN and other with INT_MAX .
+
+// Then traverse the array and compare both th variable with the elements in array
+
 
 class Solution {
   public:
