@@ -9,7 +9,12 @@
         Array Easy 
         1.5
 
-3--------Date : 3-11-2024
+3--------Date : 1-12-2024
         Question - Move Zeros to the Ends
         Array Easy 
         2
+
+4--------Date : 1-12-2024
+        Question - Rotate Array by  K positions
+        Array Easy-medium
+        2.5
