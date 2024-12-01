@@ -1,3 +1,8 @@
+6--------Date : 1-12-2024
+        Question - second largest number without sorting
+        Array Easy
+        1.5
+
 5--------Date : 1-12-2024
         Question - check Array is palindrome
         Array Easy
