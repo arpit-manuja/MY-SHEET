@@ -8,3 +8,8 @@
         Question - Reverse an Array
         Array Easy 
         1.5
+
+3--------Date : 3-11-2024
+        Question - Move Zeros to the Ends
+        Array Easy 
+        2
